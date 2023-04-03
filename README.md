@@ -1,3 +1,3 @@
-REMOTE
+LOCAL
 # test
 ##Nicolas Palay
